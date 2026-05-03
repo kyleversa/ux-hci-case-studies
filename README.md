@@ -24,3 +24,23 @@ A task-based usability evaluation of the Starbucks iOS mobile app focused on dri
 
 [View the full report](./starbucks-usability-test_report.pdf)
 
+---
+
+### Airbnb Mobile App Heuristic Evaluation
+
+An expert usability inspection of the Airbnb iOS mobile app focused on the guest booking experience, including search, filters, listing comparison, booking flow, reservation management, and host messaging.
+
+**Methods used:** heuristic evaluation, Nielsen’s 10 usability heuristics, task-driven walkthrough, severity rating, issue aggregation, prioritization by severity and fix effort, and actionable UX recommendations.
+
+**Key outcome:** The evaluation identified **14 usability issues**, including **4 major issues** affecting user control, error prevention, and recovery from errors. The highest-priority improvements were accidental cancellation risk, lost scroll position, unclear message-send failures, and inconsistent booking-flow back navigation.
+
+**Main recommendations:**
+
+- Improve spacing and styling for destructive actions.
+- Preserve scroll position between listing views.
+- Provide clear error messages for messaging failures.
+- Make booking-flow back navigation consistent.
+- Add lightweight loading indicators for price breakdowns.
+- Increase whitespace in listing layouts.
+
+[View the full report](./airbnb-heuristic-evaluation_report.pdf)
